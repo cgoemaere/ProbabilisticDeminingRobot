@@ -1,5 +1,6 @@
 # ProbabilisticDeminingRobot
 *Found this little gem in my private repo on UGent's Enterprise GitHub, and thought I'd share it with the rest of the world.*
+![Animation of demining robot performing a probabilistic search in the mine field](https://github.com/cgoemaere/ProbabilisticDeminingRobot/blob/main/probabilistic_demining_robot_animation.gif)
 
 **Context:** For the Robotics course in the first year of my Master's studies, the task was to make a demining robot. Whereas most people focussed on the robot's operating system (ROS) or the 3D simulation in Gazebo, I decided to work on the algorithmic aspect of the problem.
 
